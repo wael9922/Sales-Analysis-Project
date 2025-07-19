@@ -22,9 +22,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-![Customer Segmentation Analysis](attachments/customer%20segmentation.png)
-
-![Customer Segmentation Analysis](Sales/Analysis/Project/attachments/customer sementation.png)
+![Customer Segmentation Analysis](attachemnts/customer_sementation.png)
 
 📊 **Key Findings:**
 
@@ -48,7 +46,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/2_cohort_analysis.png" alt="Cohort Analysis" style="width: 50%; height: auto;">
+![Customer Cohort Analysis](attachemnts/2_cohort_analysis.png)
 
 📊 **Key Findings:**
 
@@ -72,7 +70,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 
 **📈 Visualization:**
 
-<img src="images/3_customer_churn_cohort_year.png" alt="Customer Churn by Cohort Year" style="width: 50%; height: auto;">
+![Customer Cohort Analysis](attachemnts/3_customer_churn_cohort_year.png)
 
 📊 **Key Findings:**
 
